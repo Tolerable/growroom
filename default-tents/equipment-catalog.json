@@ -1,0 +1,116 @@
+{
+  "categories": {
+    "tents": [
+      {
+        "id": "tent-3x3",
+        "name": "AC Infinity CLOUDLAB 733, 3x3x72\" Tent",
+        "retailPrice": 159.99,
+        "salePrice": 127.99,
+        "url": "https://www.acinfinity.com/grow-tents/cloudlab-733-advance-grow-tent-3x3/"
+      },
+      {
+        "id": "tent-4x4",
+        "name": "AC Infinity CLOUDLAB 744, 4x4x82\" Tent",
+        "retailPrice": 189.99,
+        "salePrice": 151.99,
+        "url": "https://www.acinfinity.com/grow-tents/cloudlab-744-advance-grow-tent-4x4/"
+      }
+    ],
+    "lights": [
+      {
+        "id": "light-evo4",
+        "name": "AC Infinity IONFRAME EVO4, 3x3 Light",
+        "retailPrice": 359.99,
+        "salePrice": 287.99,
+        "url": "https://www.acinfinity.com/led-grow-lights/ionframe-series/ionframe-o4-led-grow-light-400w/"
+      },
+      {
+        "id": "light-evo6",
+        "name": "AC Infinity IONFRAME EVO6, 4x4 Light",
+        "retailPrice": 459.99,
+        "salePrice": 367.99,
+        "url": "https://www.acinfinity.com/led-grow-lights/ionframe-series/ionframe-o6-led-grow-light-600w/"
+      }
+    ],
+    "ventilation": [
+      {
+        "id": "exhaust-4",
+        "name": "AC Infinity CLOUDLINE T4 4\" Inline Fan with Carbon Filter",
+        "retailPrice": 169.98,
+        "salePrice": 135.98,
+        "url": "https://www.acinfinity.com/hvac-home-ventilation/inline-duct-fan-systems/cloudline-t4-quiet-inline-duct-fan-system-with-temperature-and-humidity-controller-4-inch/"
+      },
+      {
+        "id": "exhaust-6",
+        "name": "AC Infinity CLOUDLINE T6 6\" Inline Fan with Carbon Filter",
+        "retailPrice": 199.98,
+        "salePrice": 159.98,
+        "url": "https://www.acinfinity.com/hvac-home-ventilation/inline-duct-fan-systems/cloudline-t6-quiet-inline-duct-fan-system-with-temperature-and-humidity-controller-6-inch/"
+      }
+    ],
+    "controllers": [
+      {
+        "id": "controller-79",
+        "name": "AC Infinity Controller 79",
+        "retailPrice": 89.99,
+        "salePrice": 71.99,
+        "url": "https://www.acinfinity.com/controller-79-temperature-and-humidity-controller/"
+      },
+      {
+        "id": "controller-80-pro",
+        "name": "AC Infinity Controller 80 PRO",
+        "retailPrice": 109.99,
+        "salePrice": 87.99,
+        "url": "https://www.acinfinity.com/controller-80-pro-smart-controller/"
+      }
+    ],
+    "fans": [
+      {
+        "id": "fan-6",
+        "name": "AC Infinity CLOUDRAY F6, 6\" Oscillating Fan",
+        "retailPrice": 69.99,
+        "salePrice": 55.99,
+        "url": "https://www.acinfinity.com/grow-tent-accessories/oscillating-fans/cloudray-f6-clip-on-oscillating-fan-6-inch/"
+      },
+      {
+        "id": "fan-9",
+        "name": "AC Infinity CLOUDRAY F9, 9\" Oscillating Fan",
+        "retailPrice": 89.99,
+        "salePrice": 71.99,
+        "url": "https://www.acinfinity.com/grow-tent-accessories/oscillating-fans/cloudray-f9-clip-on-oscillating-fan-9-inch/"
+      }
+    ],
+    "ducting": [
+      {
+        "id": "duct-8",
+        "name": "AC Infinity Flex Duct 8' Length",
+        "retailPrice": 19.99,
+        "salePrice": 15.99,
+        "url": "https://www.acinfinity.com/ducting/flexible-ducting/aluminum-flex-duct-4-inch-8-feet-long/"
+      },
+      {
+        "id": "duct-25",
+        "name": "AC Infinity Flex Duct 25' Length",
+        "retailPrice": 29.99,
+        "salePrice": 23.99,
+        "url": "https://www.acinfinity.com/ducting/flexible-ducting/aluminum-flex-duct-4-inch-25-feet-long/"
+      }
+    ],
+    "nets": [
+      {
+        "id": "net-3x3",
+        "name": "AC Infinity Elastic Trellis Net 3x3",
+        "retailPrice": 19.99,
+        "salePrice": 15.99,
+        "url": "https://www.acinfinity.com/grow-tent-accessories/trellis-netting/elastic-trellis-net-for-plant-support-3-x-3-feet/"
+      },
+      {
+        "id": "net-4x4",
+        "name": "AC Infinity Elastic Trellis Net 4x4",
+        "retailPrice": 24.99,
+        "salePrice": 19.99,
+        "url": "https://www.acinfinity.com/grow-tent-accessories/trellis-netting/elastic-trellis-net-for-plant-support-4-x-4-feet/"
+      }
+    ]
+  }
+}
